@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LR6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task1-Debug-ce4162532ab515d129ff.json",
+					"name" : "Task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task2-Debug-96fde8574f918c3585b2.json",
+					"name" : "Task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task3-Debug-592cdaf098958ca82216.json",
+					"name" : "Task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-f8d6db7b14c3c207add5.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main_address::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main_address-Debug-c1c7dcaa0082af4a9085.json",
+					"name" : "main_address",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main_leak::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main_leak-Debug-7887b68c9215719a34d1.json",
+					"name" : "main_leak",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yagor/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/453505/\u041e\u0410\u0438\u041f/LR6/cmake-build-debug",
+		"source" : "/home/yagor/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/453505/\u041e\u0410\u0438\u041f/LR6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

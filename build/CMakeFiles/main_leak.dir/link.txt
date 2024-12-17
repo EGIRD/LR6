@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main_leak.dir/main.cpp.o -o main_leak  libTask1.a libTask2.a libTask3.a -fsanitize=leak 

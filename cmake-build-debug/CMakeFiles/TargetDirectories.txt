@@ -1,0 +1,8 @@
+/home/yagor/Документы/453505/ОАиП/LR6/cmake-build-debug/CMakeFiles/Task1.dir
+/home/yagor/Документы/453505/ОАиП/LR6/cmake-build-debug/CMakeFiles/Task2.dir
+/home/yagor/Документы/453505/ОАиП/LR6/cmake-build-debug/CMakeFiles/Task3.dir
+/home/yagor/Документы/453505/ОАиП/LR6/cmake-build-debug/CMakeFiles/main.dir
+/home/yagor/Документы/453505/ОАиП/LR6/cmake-build-debug/CMakeFiles/main_address.dir
+/home/yagor/Документы/453505/ОАиП/LR6/cmake-build-debug/CMakeFiles/main_leak.dir
+/home/yagor/Документы/453505/ОАиП/LR6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yagor/Документы/453505/ОАиП/LR6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
